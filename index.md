@@ -1,4 +1,7 @@
 # Computer Science Capstone ePortfolio
+❗❗❗[Live Capstone Project](https://kbbookapp.xyz/)❗❗❗
+
+❗❗❗[Project Code Base](https://github.com/restodruid1/DigitalBookLibrary)❗❗❗
 ### Professional Self-Assessment
 My time at SNHU has been a great experience and has shaped me into the developer that I am today. Through the coursework and this ePortfolio I have learned the fundamentals of computer science and what is expected of me as a professional developer. In my reflection, I determined that there were four classes that had a profound impact on me: Software Development Life Cycle, Software Security, Data Structures and Algorithms, and Full-Stack Development. SDLC taught me the various methods that companies use to develop and deploy software. Most importantly, it taught me how corporations work so that I could use the strategy for my own projects and so that I could meet expectations in the workforce and better collaborate in a team environment. Software Security was influential to me because it emphasized the importance of security in software, and that it is to be taken serious in all phases of development. Data Structures and Algorithms was another influential course because it is a foundational concept in computer science and it plays a major role in the success of professional software. Lastly, the Full-Stack course inspired me to build this web app because I wanted to create an application that involved all aspects of my computer science journey and what better way than to build an entire full-stack application and deploy it to the web. This program combined with inspiration through its acceptance of me, has given me confidence and shaped me into the developer I am today. I take pride in my knowledge of computer science fundamentals and my ability to learn and apply new technologies.
 
@@ -29,4 +32,19 @@ In terms of data structures and algorithms, this project was fairly straightforw
 
 ### Category Three: Databases
 The database of choice was MongoDB which is a NoSQL database that stores data in JSON-like documents. I chose this database because it pairs well with JavaScript which made communication seamless. The database is a vital component to any full-stack application as it allowed my app to have persistent and dynamic data for the frontend. Below is the schema I designed. It is a singular collection that contains all the user data needed for the application functionality.
-![Database Schema](Project_Design.jpg)
+
+![Database Schema](DatabaseSchema.PNG)
+
+### Final Product
+To cap the project off, I created an EC2 instance on Amazon Web Services(AWS) where I configured the Linux virtual machine to be a webserver that hosts my application. From this I learned about the following:
+- Cloud technologies
+- Linux
+- Virtual Machines
+- ssh
+- DNS
+- Networking
+- Security
+
+❗❗❗[Live Capstone Project](https://kbbookapp.xyz/)❗❗❗
+
+❗❗❗[Project Code Base](https://github.com/restodruid1/DigitalBookLibrary)❗❗❗
