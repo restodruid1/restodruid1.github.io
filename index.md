@@ -31,13 +31,19 @@ To accomplish this goal, I combined all three categories into one full-stack app
 This application was coded using the MEAN stack (MongoDB, Express, Angular, NodeJS) because of the uniformity of the Javascript language that is shared. This allowed for seamless integration between all the software. On a side-note, I chose to use plain HTML, CSS, and JS instead of Angular because Angular would have been overkill. Additionally, I designed this app to utlize the MVC architecture to practice writing software that is managable and scalable. Below is the high-level diagram I created to show the various components and how I imagined they would work together.
 ![High-Level Design](Project_Design.jpg)
 
+Click [here](https://github.com/restodruid1/restodruid1.github.io/blob/main/Enhancement%20One%20Narrative%20KB.docx) for my narrative.
+
 ### Category Two: Algorithms and Data Structures
 In terms of data structures and algorithms, this project was fairly straightforward. I was conscious of the data structures and algorithms I was implementing in terms of time and space complexity so I avoided gross inefficiencies. This project relies heavily on the use of built-in objects (hashmaps) to communicate with various components when passing data through the application. I considered alternatives where I could, but I decided that for the purposes of the project, the tradeoff was not worth the time.
+
+Click [here](https://github.com/restodruid1/restodruid1.github.io/blob/main/Enhancement%20Two%20Narrative%20KB.docx)
 
 ### Category Three: Databases
 The database of choice was MongoDB which is a NoSQL database that stores data in JSON-like documents. I chose this database because it pairs well with JavaScript which made communication seamless. The database is a vital component to any full-stack application as it allowed my app to have persistent and dynamic data for the frontend. Below is the schema I designed. It is a singular collection that contains all the user data needed for the application functionality.
 
 ![Database Schema](DatabaseSchema.PNG)
+
+Click [here](https://github.com/restodruid1/restodruid1.github.io/blob/main/Enhancement%20Three%20Narrative%20KB.docx) for my narrative.
 
 ### Final Product
 To cap the project off, I created an EC2 instance on Amazon Web Services(AWS) where I configured the Linux virtual machine to be a webserver that hosts my application. From this I learned about the following:
