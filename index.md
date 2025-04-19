@@ -36,7 +36,7 @@ Click [here](https://github.com/restodruid1/restodruid1.github.io/blob/main/Enha
 ### Category Two: Algorithms and Data Structures
 In terms of data structures and algorithms, this project was fairly straightforward. I was conscious of the data structures and algorithms I was implementing in terms of time and space complexity so I avoided gross inefficiencies. This project relies heavily on the use of built-in objects (hashmaps) to communicate with various components when passing data through the application. I considered alternatives where I could, but I decided that for the purposes of the project, the tradeoff was not worth the time.
 
-Click [here](https://github.com/restodruid1/restodruid1.github.io/blob/main/Enhancement%20Two%20Narrative%20KB.docx)
+Click [here](https://github.com/restodruid1/restodruid1.github.io/blob/main/Enhancement%20Two%20Narrative%20KB.docx) for my narrative.
 
 ### Category Three: Databases
 The database of choice was MongoDB which is a NoSQL database that stores data in JSON-like documents. I chose this database because it pairs well with JavaScript which made communication seamless. The database is a vital component to any full-stack application as it allowed my app to have persistent and dynamic data for the frontend. Below is the schema I designed. It is a singular collection that contains all the user data needed for the application functionality.
