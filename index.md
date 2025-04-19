@@ -2,6 +2,10 @@
 ❗❗❗[Live Capstone Project](https://kbbookapp.xyz/)❗❗❗
 
 ❗❗❗[Project Code Base](https://github.com/restodruid1/DigitalBookLibrary)❗❗❗
+
+![SS1](librarySS1.PNG)
+
+![SS2](librarySS2.PNG)
 ### Professional Self-Assessment
 My time at SNHU has been a great experience and has shaped me into the developer that I am today. Through the coursework and this ePortfolio I have learned the fundamentals of computer science and what is expected of me as a professional developer. In my reflection, I determined that there were four classes that had a profound impact on me: Software Development Life Cycle, Software Security, Data Structures and Algorithms, and Full-Stack Development. SDLC taught me the various methods that companies use to develop and deploy software. Most importantly, it taught me how corporations work so that I could use the strategy for my own projects and so that I could meet expectations in the workforce and better collaborate in a team environment. Software Security was influential to me because it emphasized the importance of security in software, and that it is to be taken serious in all phases of development. Data Structures and Algorithms was another influential course because it is a foundational concept in computer science and it plays a major role in the success of professional software. Lastly, the Full-Stack course inspired me to build this web app because I wanted to create an application that involved all aspects of my computer science journey and what better way than to build an entire full-stack application and deploy it to the web. This program combined with inspiration through its acceptance of me, has given me confidence and shaped me into the developer I am today. I take pride in my knowledge of computer science fundamentals and my ability to learn and apply new technologies.
 
